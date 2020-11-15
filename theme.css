@@ -229,7 +229,7 @@
 	--background-secondary-chat: transparent;
 	--background-secondary-alt: transparent;
 	--background-tertiary: #18181880;
-	--background-logo: transparent;
+	--background-logo: #7289DA;
 	--deprecated-card-bg: #18181840;
 	--deprecated-store-bg: #18181840;
 	--background-attachments: #18181840;
@@ -269,6 +269,10 @@
 
 .theme-dark .pageWrapper-1PgVDX {
 	background-color: transparent;
+}
+
+.theme-dark .keybind-KpFkfr {
+    color: #ffffff;
 }
 
 .theme-light {
